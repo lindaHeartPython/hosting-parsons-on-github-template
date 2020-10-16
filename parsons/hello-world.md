@@ -1,3 +1,7 @@
+---
+layout: default
+title: Hello World
+---
 <div id="hello-world-sortableTrash" class="sortable-code"></div> 
 <div id="hello-world-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
