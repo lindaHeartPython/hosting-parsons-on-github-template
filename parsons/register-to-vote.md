@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Multiple Parson's Problems on One Page
+title: Python Puzzle
 ---
-# Parsons Practice
+# Python Review
 
-## Parsons 1 (Line Based Grader)
-Re-arrange the blocks below so they print out "Hello World!"
+## Register to Vote
+Re-arrange the blocks below so they ask the user for their age and display a message about voting if they are of age. If not, tell them how long until they can.
 
 <div id="register-to-vote-sortableTrash" class="sortable-code"></div> 
 <div id="register-to-vote-sortable" class="sortable-code"></div> 
