@@ -1,4 +1,3 @@
-<p>Hello-Hello</p>
 <div id="register-to-vote-sortableTrash" class="sortable-code"></div> 
 <div id="register-to-vote-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
