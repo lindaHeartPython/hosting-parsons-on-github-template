@@ -1,3 +1,20 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: Python Puzzle
+---
+# Python Review
+
+## Discount t-shirts
+Re-arrange the blocks below so they ask the user how many t-shirts they want to purchase.
+100 or fewer t-shirts: 5% discount
+200 or fewer t-shirts: 10% discount
+500 or fewer t-shirts: 15% discount
+More than 500 t-shirts: 20% discount
+Display the discount.
+
 <div id="discount-t-shirt-sortableTrash" class="sortable-code"></div> 
 <div id="discount-t-shirt-sortable" class="sortable-code"></div> 
 <div style="clear:both;"></div> 
