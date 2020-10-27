@@ -9,7 +9,7 @@ title: Python Puzzle
 
 ## Discount t-shirts
 Re-arrange the blocks below so they ask the user how many t-shirts they want to purchase.
-100 or fewer t-shirts: 5% discount
+100 or fewer t-shirts: 5% discount\n
 200 or fewer t-shirts: 10% discount
 500 or fewer t-shirts: 15% discount
 More than 500 t-shirts: 20% discount
